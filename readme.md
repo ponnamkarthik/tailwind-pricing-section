@@ -2,7 +2,7 @@
 
 ## Demo
 
-https://tailwindcomponents.com/component/credit-debit-card/landing
+https://tailwindcomponents.com/component/pricing-sections
 
 ## Output
 
